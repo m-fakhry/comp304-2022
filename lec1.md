@@ -1,25 +1,5 @@
----
-author: Mohamed Ghalwash
-title: Compiler Design (COMP 304)
-date: Feb 21, 20222
----
-<style>
-    .reveal .slides {
-        text-align: left;
-        font-size: 1.3em;
-        position: absolute;
-        top: 0;
-        left: 0;
-        padding: 0px;
-    }
-    .reveal p:first-child { margin-top: 0px; }
-    .reveal .slides > section { padding: 0px; }
-    .reveal div.slides { position: absolute; top: -5%; }
-</style>
 
-<script>mermaid.initialize({startOnLoad:true});</script>
-
-## Lecture 1
+# Lecture 1
 
 ---
 ## Logistics
@@ -41,7 +21,7 @@ Tool |  ANTLR https://www.antlr.org/
 <!-- https://mermaid-js.github.io/mermaid/#/theming -->
 
 ```mermaid
-%%{init: {'themeVariables': {'fontSize':'35px', 'fontFamily': 'verdana'}}}%%
+%%{init: {'themeVariables': {'fontSize':'20px', 'fontFamily': 'verdana'}}}%%
   graph LR; %% left to right
     s(Source Program)--> Compiler --> T(Target Code);
     i(Input)--> T --> o(Output);
@@ -50,11 +30,11 @@ Tool |  ANTLR https://www.antlr.org/
 - What is an interpreter?
 
 ```mermaid
-%%{init: {'themeVariables': { 'fontSize': '35px', 'fontFamily': 'verdana'}}}%%
+%%{init: {'themeVariables': { 'fontSize': '20px', 'fontFamily': 'verdana'}}}%%
   graph LR; %% left to right
       s(Source Program)--> c(Interpreter) ;
       c --> o(Output);
-      i(Input)--> c;
+      i(Input)<--> c;
       classDef bigger font-size:45
       class s,c bigger
 ```
@@ -67,7 +47,7 @@ Tool |  ANTLR https://www.antlr.org/
 ## Compiler Structure
 
 ```mermaid
-%%{init: {'themeVariables': { 'fontSize': '35px', 'fontFamily': 'verdana'}}}%%
+%%{init: {'themeVariables': { 'fontSize': '20px', 'fontFamily': 'verdana'}}}%%
   graph LR;
       subgraph optimizer
         o1(optimization 1) --> o2(optimization 2 ) --> o3(optimization 3 )
