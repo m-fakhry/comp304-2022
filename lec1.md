@@ -57,7 +57,7 @@ Tool |  ANTLR https://www.antlr.org/
       subgraph frontend
         s(scanner) --> p(parser)
       end
-      subgraph backendend
+      subgraph backend
         g(optimized machine code) --> g
       end
     end
