@@ -16,4 +16,4 @@
 
     - outputs the list of nodes in the graph
 
-    - output all colors used in the graph
+    - outputs all colors used in the graph
