@@ -25,17 +25,18 @@
       </code></pre>
     </section>
 - Transition Diagram
-
 - Finite Automata
   - deterministic (DFA) and non-deterministic (NFA)
 - How to handle a keyword when dealing with identifier
 - Regular expression
-  ![Table](RegExp.jpeg)
+  ![Table](Images/RegExp.jpeg)
 - Very high level of different ways of implementing a scanner
   - hand-coded
   - table-driven
   - direct-coded
 
+- Picture for the lecture
+![Whiteboard](Images/lec2_1.jpg)
 
 <!-- - **Exercise**
 

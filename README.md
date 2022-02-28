@@ -20,5 +20,5 @@ Tool |  ANTLR https://www.antlr.org/
 
 Topic | Contents | Lecture | Assignment
 ---|---|---|---
-Introduction | Complier vs Interpreter, Compiler Structure: scanner, parser, intermediate representation, optimizer, back-end  | [Lecture 1](lec1.md) | [Assignment 1](assignment1.md)
-Scanner | Scanner, Recognizer, Finite Automata, Regular expression | [Lecture 2](lec2.md) | [Assignment 2](assignment2.md)
+Introduction | Complier vs Interpreter, Compiler Structure: scanner, parser, intermediate representation, optimizer, back-end  | [Lecture 1](Lectures/lec1.md) | [Assignment 1](Assignments/assignment1.md)
+Scanner | Scanner, Recognizer, Finite Automata, Regular expression | [Lecture 2](Lectures/lec2.md) | [Assignment 2](Assignments/assignment2.md)
