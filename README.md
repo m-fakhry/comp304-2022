@@ -13,3 +13,12 @@ Book | "_Compilers - Principles, Techniques, and Tools_", Alfred Aho, Monica Lam
 Objective | Design and Implement compilers
 Skills | programming languages, machine architecture, language theory, algorithms, and software engineering.
 Tool |  ANTLR https://www.antlr.org/
+
+---
+
+### Lectures
+
+Topic | Contents | Lecture | Assignment
+---|---|---|---
+Introduction | Complier vs Interpreter, Compiler Structure: scanner, parser, intermediate representation, optimizer, back-end  | [Lecture 1](lec1.md) | [Assignment 1](assignment1.md)
+Scanner | Scanner, Recognizer, Finite Automata, Regular expression | [Lecture 2](lec2.md) | [Assignment 2](assignment2.md)
