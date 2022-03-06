@@ -20,7 +20,7 @@
         < open_paranthesis >
         < identifier, i >
         < assignment >
-        < number, 2 >
+        < number, 0 >
         ...
       </code></pre>
     </section>
@@ -51,11 +51,3 @@
   - Regular Expression to NFA
   - Regular Expression directly to DFA
  -->
-
-
-
-
-  <section>
-    <pre><code data-trim data-noescape>
-    </code></pre>
-  </section>
