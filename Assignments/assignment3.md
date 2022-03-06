@@ -25,6 +25,7 @@
       < color, red >
       < close_paranthesis, ) >
 
+&emsp;&emsp;&emsp; - Write a regular expression for the language and its DFA.
 
 &emsp;&emsp;&emsp; - Implement the scanner in two different ways: table-driven and hand-coded.
 
