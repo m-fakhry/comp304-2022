@@ -24,6 +24,7 @@
       < comma, , >
       < color, red >
       < close_paranthesis, ) >
+      < eof, >
 
 &emsp;&emsp;&emsp; - Write a regular expression for the language and its DFA.
 
