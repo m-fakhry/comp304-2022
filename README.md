@@ -23,3 +23,4 @@ Topic | Contents | Lecture | Assignment
 Introduction | Complier vs Interpreter, Compiler Structure: scanner, parser, intermediate representation, optimizer, back-end  | [Lecture 1](Lectures/lec1.md) | [Assignment 1](Assignments/assignment1.md)
 Scanner | Scanner, Recognizer, Finite Automata, Regular expression | [Lecture 2](Lectures/lec2.md) | [Assignment 2](Assignments/assignment2.md)
 Scanner Implementation | table-driven, direct-coded, hand-coded | [Lecture 3](Lectures/lec3.md) | [Assignment 3](Assignments/assignment3.md)
+Top down parser | CFG, RE, left recursion, backtrack issue | [Lecture 4](Lectures/lec4.md) | [Assignment 4](Assignments/assignment4.md)

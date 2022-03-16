@@ -38,7 +38,7 @@
 
       - eliminating (direct and **indirect**) left recursion
 
-            <A> -> <A>a| b
+            <A> -> <A>a | b
 
             to
 
@@ -47,5 +47,5 @@
       - **backtrack-free parser**
         - lookahead: first set and follow set
         `FIRST(a)`, where `a` is any string of grammar symbols, to be the set of terminals that begin strings derived from `a`
-        `FOLLOW(A)`, for nonterminal `A`, to be the set of terminals that can appear immediately to the right of `A` in some sentential (derivation) form
+        `FOLLOW(A)`, for nonterminal `A`, to be the set of terminals that can appear immediately to the right of `A` in some sentential (derivation) form
     - bottom-up
