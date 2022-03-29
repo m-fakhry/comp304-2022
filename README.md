@@ -25,3 +25,4 @@ Scanner | Scanner, Recognizer, Finite Automata, Regular expression | [Lecture 2]
 Scanner Implementation | table-driven, direct-coded, hand-coded | [Lecture 3](Lectures/lec3.md) | [Assignment 3](Assignments/assignment3.md)
 Top down parser | CFG, RE, left recursion, backtrack issue | [Lecture 4](Lectures/lec4.md) | [Assignment 4](Assignments/assignment4.md)
 Top down parser | recursive descent parsing, left factoring, FIRST set | [Lecture 5](Lectures/lec5.md) | [Assignment 5](Assignments/assignment5.md)
+Top down parser | FIRST and FOLLOW sets, table-driven parser, parsing table, LL(1) grammar | [Lecture 6](Lectures/lec6.md) | [Assignment 6](Assignments/assignment6.md)
