@@ -2,7 +2,7 @@
 
 ## Scanner
 
-- Definition of scanner: stream of characters to a stream of tokes
+- Definition of scanner: stream of characters to a stream of tokens
 - Scanner (Lexical Analysis) Versus Parsing
 - Recognition of Tokens ... recognize each word ... word by word  
   - Example:
