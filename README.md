@@ -18,13 +18,18 @@ Tool |  ANTLR https://www.antlr.org/
 
 ### Lectures
 
-Topic | Contents | Lecture | Assignment
----|---|---|---
-Introduction | Complier vs Interpreter, Compiler Structure: scanner, parser, intermediate representation, optimizer, back-end  | [Lecture 1](Lectures/lec1.md) | [Assignment 1](Assignments/assignment1.md)
-Scanner | Scanner, Recognizer, Finite Automata, Regular expression | [Lecture 2](Lectures/lec2.md) | [Assignment 2](Assignments/assignment2.md)
-Scanner Implementation | table-driven, direct-coded, hand-coded | [Lecture 3](Lectures/lec3.md) | [Assignment 3](Assignments/assignment3.md)
-Top down parser | CFG, RE, left recursion, backtrack issue | [Lecture 4](Lectures/lec4.md) | [Assignment 4](Assignments/assignment4.md)
-Top down parser | recursive descent parsing, left factoring, FIRST set | [Lecture 5](Lectures/lec5.md) | [Assignment 5](Assignments/assignment5.md)
-Top down parser | FIRST and FOLLOW sets, table-driven parser, parsing table, LL(1) grammar | [Lecture 6](Lectures/lec6.md) | [Assignment 6](Assignments/assignment6.md)
-Midterm exam | midterm exam | No Lecture | No assignment
-Bottom-up parser | Shift-Reduce, Handle | [Lecture 7](Lectures/lec7.md) | [Assignment 7](Assignments/assignment7.md)
+| Date |Topic | Contents | Lecture | Assignment
+---|---|---|---|---
+2/21 | Introduction |Complier vs Interpreter, Compiler Structure: scanner, parser, intermediate representation, optimizer, back-end  | [Lecture 1](Lectures/lec1.md) | [Assignment 1](Assignments/assignment1.md)
+2/28 | Scanner | Scanner, Recognizer, Finite Automata, Regular expression | [Lecture 2](Lectures/lec2.md) | [Assignment 2](Assignments/assignment2.md)
+3/7 | Scanner Implementation | table-driven, direct-coded, hand-coded | [Lecture 3](Lectures/lec3.md) | [Assignment 3](Assignments/assignment3.md)
+3/14 | Top down parser | CFG, RE, left recursion, backtrack issue | [Lecture 4](Lectures/lec4.md) | [Assignment 4](Assignments/assignment4.md)
+3/21 | Top down parser | recursive descent parsing, left factoring, FIRST set | [Lecture 5](Lectures/lec5.md) | [Assignment 5](Assignments/assignment5.md)
+3/28 | Top down parser | FIRST and FOLLOW sets, table-driven parser, parsing table, LL(1) grammar | [Lecture 6](Lectures/lec6.md) | [Assignment 6](Assignments/assignment6.md)
+4/4 | Midterm exam |  | | 
+4/11 | Bottom-up parser | Shift-Reduce, Handle | [Lecture 7](Lectures/lec7.md) | [Assignment 7](Assignments/assignment7.md)
+4/18 | Section 4.6 (Simple LR) | Presenters: Etaf, Rehab  |  |
+4/18 | Section 4.8 (Ambiguous Grammars) | Presenters: Nada Ahmed, Islam Kamal  |  |
+5/9 | Sections 5.2 (Orders for SDD) | Presenters:  AbdulRahman Awwad, Mariam |  |
+5/9 | Sections 5.4 (Syntax-Directed Translation Schemes) | Presenters:  Israa Mahmoud, Islam Hany |  |
+5/9 | Sections 5.5 (Implementing L-Attributed SDD) | Presenters:  Aya Moustafa, Lubna, |  |
