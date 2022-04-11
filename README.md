@@ -27,4 +27,4 @@ Top down parser | CFG, RE, left recursion, backtrack issue | [Lecture 4](Lecture
 Top down parser | recursive descent parsing, left factoring, FIRST set | [Lecture 5](Lectures/lec5.md) | [Assignment 5](Assignments/assignment5.md)
 Top down parser | FIRST and FOLLOW sets, table-driven parser, parsing table, LL(1) grammar | [Lecture 6](Lectures/lec6.md) | [Assignment 6](Assignments/assignment6.md)
 Midterm exam | midterm exam | No Lecture | No assignment
-Bottom-up parser | Shift-Reduce, Handle | [Lecture 7](Lectures/lec7.md) | No assignment
+Bottom-up parser | Shift-Reduce, Handle | [Lecture 7](Lectures/lec7.md) | [Assignment 7](Assignments/assignment7.md)
