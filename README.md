@@ -28,7 +28,7 @@ Tool |  ANTLR https://www.antlr.org/
 3/28 | Top down parser | FIRST and FOLLOW sets, table-driven parser, parsing table, LL(1) grammar | [Lecture 6](Lectures/lec6.md) | [Assignment 6](Assignments/assignment6.md)
 4/4 | Midterm exam |  | |
 4/11 | Bottom-up parser | Shift-Reduce, Handle. Presenters: Sara Ali, Hagar, Karim | [Lecture 7](Lectures/lec7.md) | [Assignment 7](Assignments/assignment7.md)
-4/18 | Bottom-up parser | Section 4.6 (Simple LR). Presenters: Etaf, Rehab  | [Lecture 8](Lectures/lec8.md) | [Assignment 7](Assignments/assignment8.md)
+4/18 | Bottom-up parser | Section 4.6 (Simple LR). Presenters: Etaf, Rehab  | [Lecture 8](Lectures/lec8.md) | [Assignment 8](Assignments/assignment8.md)
 4/23 | Bottom-up parser | Section 4.8 (Ambiguous Grammars). Presenters: Nada Ahmed, Islam Kamal  |  |
 4/23 | Syntax-Directed Translation | Sections 5.2 (Orders for SDD). Presenters: AbdulRahman Awwad, Mariam |  |
 5/9 | Sections 5.4 (Syntax-Directed Translation Schemes) | Presenters:  Israa Mahmoud, Islam Hany |  |
