@@ -26,7 +26,7 @@ Tool |  ANTLR https://www.antlr.org/
 3/14 | Top down parser | CFG, RE, left recursion, backtrack issue | [Lecture 4](Lectures/lec4.md) | [Assignment 4](Assignments/assignment4.md)
 3/21 | Top down parser | recursive descent parsing, left factoring, FIRST set | [Lecture 5](Lectures/lec5.md) | [Assignment 5](Assignments/assignment5.md)
 3/28 | Top down parser | FIRST and FOLLOW sets, table-driven parser, parsing table, LL(1) grammar | [Lecture 6](Lectures/lec6.md) | [Assignment 6](Assignments/assignment6.md)
-4/4 | Midterm exam |  | |
+4/4 | Midterm exam |  (4/4)| |
 4/11 | Bottom-up parser | Shift-Reduce, Handle. Presenters: Sara Ali, Hagar, Karim | [Lecture 7](Lectures/lec7.md) | [Assignment 7](Assignments/assignment7.md)
 4/18 | Bottom-up parser | Section 4.6 (Simple LR). Presenters: Etaf, Rehab  | [Lecture 8](Lectures/lec8.md) | [Assignment 8](Assignments/assignment8.md)
 4/23 | Bottom-up parser | Section 4.8 (Ambiguous Grammars). Presenters: Nada Ahmed, Islam Kamal  |  |
