@@ -73,8 +73,20 @@
     - Rehab Hamdy
     - Nesreen Ahmed
 
-1. Constructions 
+1. Constructions
 
     - Ahmed Mohamed Abdelgalil
     - Ahmed Salem Kamel
     - Mohamed Medhat
+
+
+**Evaluation Criteria**
+
+  1. Novelty: How is the idea cool/applicable/useful?
+  1. Language Richness: Is the language rich enough so that accepted strings can have not too simple format?
+  1. Program Execution: Is the code running? Does the compiler accept only valid strings and reject invalid strings? Does it output a message where the error is?
+  1. Implementation Techniques: Does the implementation use a proper data structure? Is the code organized and structured in a proper way?  
+  1. Scanner Evaluation: Does the scanner generate the right stream of tokens?
+  1. Parser Evaluation: Does the parser generate the correct parse tree?
+  1. Interface Evaluation:
+  1. Popularity: This will be rated by other students.
