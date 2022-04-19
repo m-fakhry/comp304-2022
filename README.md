@@ -1,6 +1,6 @@
-# Compiler Desgin (Comp304) - 2021-2022
+# Compiler Desgin (COMP 304) - 2021-2022
 
-- Repo for Compiler Design course - COMP 304 for the 2021-2022 academic year at Ain Shams University
+- Repo for the Compiler Design course (COMP 304) for the 2021-2022 academic year at Ain Shams University
 
 ### Logistics
 
