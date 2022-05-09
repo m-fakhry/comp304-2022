@@ -31,6 +31,6 @@ Tool |  ANTLR https://www.antlr.org/
 4/18 | Bottom-up parser | Section 4.6 (Simple LR). Presenters: Etaf, Rehab  | [Lecture 8](Lectures/lec8.md) | [Assignment 8](Assignments/assignment8.md)
 ~~4/23~~ | ~~Bottom-up parser~~ | ~~Section 4.8 (Ambiguous Grammars). Presenters: Nada Ahmed, Islam Kamal~~  |  Postponed |
 4/23 | Syntax-Directed Translation | Sections 5.2 (Orders for SDD). Presenters: AbdulRahman Awwad, Mariam | [Lecture 9](Lectures/lec9.md) | [Assignment 9](Assignments/assignment9.md)
-5/9 | Sections 5.4 (Syntax-Directed Translation Schemes) | Presenters:  Israa Mahmoud, Islam Hany |  |
-5/9 | Sections 5.5 (Implementing L-Attributed SDD) | Presenters:  Aya Moustafa, Lubna, |  |
-5/16 | Bottom-up parser | Section 4.8 (Ambiguous Grammars). Presenters: Nada Ahmed, Islam Kamal  |  Postponed |
+5/8 | Sections 5.4 (Syntax-Directed Translation Schemes) | Presenters:  Islam Hany, ~~Israa Mahmoud~~ | [Lecture 10](Lectures/lec10.md) | No assignment  |
+5/8 | Bottom-up parser | Section 4.8 (Ambiguous Grammars). Presenters: Nada Ahmed, ~~Islam Kamal~~  | [Lecture 10](Lectures/lec10.md) | No assignment |
+~~5/9~~ | ~~Sections 5.5 (Implementing L-Attributed SDD)~~ | ~~Presenters:  Aya Moustafa, Lubna,~~ | Cancelled |
